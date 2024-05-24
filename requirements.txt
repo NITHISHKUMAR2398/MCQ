@@ -1,0 +1,12 @@
+torch
+transformers
+sense2vec
+pke
+streamlit
+nltk
+flashtext
+sense2vec
+sentence-transformers
+strsim
+numpy
+scikit-learn
